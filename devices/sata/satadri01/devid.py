@@ -1,0 +1,13 @@
+drvid="6669727374206f66207361746120627573"
+Brand="TOYTECH"
+model="c526q37y2xn472873y5x7h8"
+type="sata,SSDdriver"
+Capacity="500G"
+series="N0.1"
+partitioncounts="2"
+p0="./devices/sata/satadri01/P00"
+p1="./devices/sata/satadri01/P01"
+bootfile="./devices/sata/satadri01/P00/BOOT/Bootrv64.py"
+p0type="oslbootpartition"
+p1rype="Standardpartition"
+status=True

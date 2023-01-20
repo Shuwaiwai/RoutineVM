@@ -1,0 +1,9 @@
+﻿drvid="357468206f662069636220627573"
+Brand="TOYTECH"
+model="fghudksfjhjkhjkjghuerkvhbhfgkudhb"
+series="N0.1"
+counts="0"
+ram="2GB"
+status=True
+devbios="./devices/icb/ram/rambios.py"
+type="icb,sysram"

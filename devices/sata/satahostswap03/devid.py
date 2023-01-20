@@ -1,0 +1,9 @@
+drvid="7468697264206f66207361746120627573"
+Brand="TOYTECH"
+model="xuibeyriueynx8tn748m874"
+Capacity="1G"
+series="N0.1"
+partitioncounts="0"
+p0="./devices/sata/satahostswap03"
+p0type="vmhostswappartition"
+status=True
